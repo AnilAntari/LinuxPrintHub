@@ -1,4 +1,4 @@
-#!/usr/bash
+#!/usr/bin/bash
 
 wget https://download.support.xerox.com/pub/drivers/3020/drivers/linux/en_GB/Xerox_Phaser_3020_Linux-Driver.tar.gz
 
