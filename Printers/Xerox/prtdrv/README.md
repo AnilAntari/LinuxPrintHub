@@ -5,3 +5,10 @@ ColorQube 8700,ColorQube 8900,ColorQube 9301/9302/9303,Xerox D95/D110/D125 Copie
 AltaLink B8145 / B8155 / B8170 Multifunction Printer,Xerox ED95A/ED125 Copier/Printer,PrimeLink B9100/B9110/B9125/B9136,Xerox Color EC70 Printer, Xerox EC8036 / EC8056 Color Multifunction Printer,Xerox B310 Printer,Xerox C310 Color Printer,Xerox C315 Color Multifunction Printer,Xerox B305 Multifunction Printer, Xerox B315 Multifunction Printer,VersaLink C7120/C7125/C7130 Color Multifunction Printer,VersaLink B7125/B7130/B7135 Multifunction Printer
 
 [AUR](https://aur.archlinux.org/packages/xerox-office-prtdrv)
+
+## PPD
+| PPD files  |
+| -----------|
+| [B1022/B1025](https://github.com/AnilAntari/LinuxPrintHub/blob/main/Printers/Xerox/prtdrv/ppd/B1022_B1025.sh)  |
+| [VersaLink B405/B400](https://github.com/AnilAntari/LinuxPrintHub/blob/main/Printers/Xerox/prtdrv/ppd/VersaLinkB405.sh)  |
+| [WorkCentre 3335/3345/Phaser 3330](https://github.com/AnilAntari/LinuxPrintHub/blob/main/Printers/Xerox/prtdrv/ppd/WC3335_WC3345_Phaser3330.sh) |
