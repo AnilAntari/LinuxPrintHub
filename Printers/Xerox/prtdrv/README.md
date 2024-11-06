@@ -6,6 +6,10 @@ AltaLink B8145 / B8155 / B8170 Multifunction Printer,Xerox ED95A/ED125 Copier/Pr
 
 [AUR](https://aur.archlinux.org/packages/xerox-office-prtdrv)
 
+## Deb package
+
+You can use the script [autodeb.sh](https://github.com/AnilAntari/LinuxPrintHub/blob/main/Printers/Xerox/prtdrv/autodeb.sh) to create a deb package or use a ready-made [deb package](https://repo.itlabor.ru/alse/1.7/pool/main/x/xerox-prtdrv/xerox-prtdrv_1.0_amd64.deb).
+
 ## PPD
 | PPD files  |
 | -----------|
